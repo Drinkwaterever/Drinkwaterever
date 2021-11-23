@@ -1,3 +1,0 @@
-处理RGB图像时：   
-先灰度化A=rgb2gray(a)
-再转为双精度型A=im2double（A）
